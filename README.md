@@ -1,3 +1,3 @@
 # rubychess
 
-# 11:50
+Let's create a chess game in ruby
